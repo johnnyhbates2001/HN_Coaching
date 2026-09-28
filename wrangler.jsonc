@@ -1,0 +1,12 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "hn-coaching",
+  "compatibility_date": "2026-09-01",
+  // A static site: no Worker script, just the files in ./public
+  "assets": {
+    "directory": "./public",
+    // Serve /about from about.html, and 404.html for missing pages
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "404-page"
+  }
+}
