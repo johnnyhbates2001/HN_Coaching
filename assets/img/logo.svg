@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="HN Coaching logo">
+  <circle cx="32" cy="32" r="31" fill="#3f5a4a"/>
+  <path d="M6 42c8-3.5 16-5 26-5s18 1.5 26 5v4c-8-3.5-16-5-26-5S14 42.5 6 46z" fill="#c5775a"/>
+  <path d="M32 11c-6 6-8.5 12-8.5 18 0 3.5 1.2 6 3.5 8-1.2-6 1.2-12 5-17 3.8 5 6.2 11 5 17 2.3-2 3.5-4.5 3.5-8 0-6-2.5-12-8.5-18z" fill="#e7efe8"/>
+</svg>
